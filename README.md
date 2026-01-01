@@ -183,4 +183,4 @@ Built with **Streamlit**, **Pandas**, **Seaborn**, and **Scikit-Learn**.
 **Sonu Kumar**  
 VOIS for Tech Program on Conversational Data Analytics with LLMs
 
-GitHub: [SonuKumar7065](https://github.com/SonuKumar7065)  
+GitHub: [SonuKumarAnalyst](https://github.com/SonuKumarAnalyst)  
